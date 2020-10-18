@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Muhammet Akil 👋
+
+
+- 🔭 I’m currently working on [Sovos](https://sovos.com/tr/)
+- 🌱 I’m currently learning React & TypeScript
+- 👯 I’m looking to collaborate on *volunteer projects*
+- 💬 Ask me about everything via 
+- 📫 How to reach me: [Here](https://mbozkaya.github.io)
 
 <!--
 **mbozkaya/mbozkaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
