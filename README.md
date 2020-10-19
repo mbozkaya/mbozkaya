@@ -1,7 +1,9 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbozkaya&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![My github stats](https://github-readme-stats.vercel.app/api?username=mbozkaya&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbozkaya&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi there, I'm Muhammet Akil 👋
+
+I'm person who trying to a fullstack software engineer 😆.
 
 - 🔭 I’m currently working on [Sovos](https://sovos.com/tr/)
 - 🌱 I’m currently learning React & TypeScript
