@@ -11,7 +11,7 @@ I'm a person who trying to fullstack software engineer 😆.
 - 🔭 I’m currently working on [Sovos](https://sovos.com/tr/)
 - 🌱 I’m currently learning React & TypeScript
 - 👯 I’m looking to collaborate on *volunteer projects*
-- 📫 2021 goal, becoming an expert who doing easily frontend stuff
+- 📫 2022 goal is learn software development history zero to nowadays and learn software paradigms and patterns and languages lisp derivate
 
 ###  Connect with me:
 
